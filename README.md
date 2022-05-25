@@ -1,9 +1,8 @@
-# Hello-Microverse
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Hello-Microverse
-> Description the project.
-This project was built to create GitHub workflows and also to setup linter for HTML and CSS in a professional way
+## Hello-Microverse
+> My First Microverse project
+
 
 ## Built With
 - HTML
@@ -11,15 +10,14 @@ This project was built to create GitHub workflows and also to setup linter for H
 - 
 
 
-
-
 ## Authors
-Titilope Apuabi
-👤 **Author1**
 
-- GitHub: https://github.com/Eternalgratis
-- Twitter: 
-- LinkedIn:
+👤 **Titilope Apuabi**
+
+- GitHub: [@eternalgratis](https://github.com/Eternalgratis)
+- Twitter: [@eternalgratis](https://twitter.com/eternalgratis)
+- Instagram: [@eternalgratis](https://www.instagram.com/eternalgratis/)
+
 
  
 
@@ -27,15 +25,17 @@ Titilope Apuabi
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-Myself
 
+## Acknowledgments
+
+- Hat tip to anyone who's code/resource was used
+- Inspiration
+- Microverse Community
 
 ## 📝 License
 
